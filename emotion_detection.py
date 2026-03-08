@@ -17,8 +17,4 @@ def emotion_detector(text_to_analyse):
 
     response = requests.post(url, json=input_json, headers=headers)
 
-<<<<<<< HEAD
     return response.text
-=======
-    return response.text
->>>>>>> 441dd32 (Initial Commit)
