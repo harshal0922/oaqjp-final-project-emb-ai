@@ -1,0 +1,6 @@
+ python3 test_emotion_detection.py
+PASS: I am glad this happened
+PASS: I am really mad about this
+PASS: I feel disgusted just hearing about this
+PASS: I am so sad about this
+PASS: I am really afraid that this will happen
